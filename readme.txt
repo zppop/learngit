@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git has a mutable index called stage.
 Git has a mutable index called stage 3.
 Git has a mutable index called stage 4.
+Git has a mutable index called stage 5.
